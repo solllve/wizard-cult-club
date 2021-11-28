@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wizard-cult-club/static/css/main.8ae5c5ca.chunk.css",
+    "main.js": "/wizard-cult-club/static/js/main.38ad1fab.chunk.js",
+    "main.js.map": "/wizard-cult-club/static/js/main.38ad1fab.chunk.js.map",
+    "runtime-main.js": "/wizard-cult-club/static/js/runtime-main.9e551229.js",
+    "runtime-main.js.map": "/wizard-cult-club/static/js/runtime-main.9e551229.js.map",
+    "static/js/2.b9e66592.chunk.js": "/wizard-cult-club/static/js/2.b9e66592.chunk.js",
+    "static/js/2.b9e66592.chunk.js.map": "/wizard-cult-club/static/js/2.b9e66592.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/wizard-cult-club/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/wizard-cult-club/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/wizard-cult-club/index.html",
+    "static/css/main.8ae5c5ca.chunk.css.map": "/wizard-cult-club/static/css/main.8ae5c5ca.chunk.css.map",
+    "static/js/2.b9e66592.chunk.js.LICENSE.txt": "/wizard-cult-club/static/js/2.b9e66592.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wizard-cult-club/static/media/hero-bg.877a7265.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e551229.js",
+    "static/js/2.b9e66592.chunk.js",
+    "static/css/main.8ae5c5ca.chunk.css",
+    "static/js/main.38ad1fab.chunk.js"
+  ]
+}
