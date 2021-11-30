@@ -1,7 +1,7 @@
 {
   "name": "candy-machine-mint",
   "version": "0.1.0",
-  "homepage": "https://solllve.github.io/wizard-cult-club/",
+  "homepage": "https://wizardcult.club",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -34,7 +34,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
